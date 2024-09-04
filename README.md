@@ -14,6 +14,7 @@ Methodology:
 Data Acquisition:
 To scrape data from sgcarmart.com, a leading online marketplace for used cars in Singapore, the BeautifulSoup library (BS4) was employed for web-scraping due to its speed and reliability. 
 The first 10000 car listings were targeted, and information was collected as of September 03, 2024.
+
 The extracted information included the following:
 Car Listing URL 'LISTING_URL', 
 Car Brand and Model 'BRAND', 
