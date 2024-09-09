@@ -3,7 +3,7 @@ Sgcarmart Data Science Project
 Project Overview: Analyzing the Used Car Market in Singapore
 
 Objective:
-In an effort to explore the used luxury sedan car market and identify affordable yet reliable options, a comprehensive data analysis was undertaken. 
+In an effort to explore the used car market and identify affordable yet reliable options, a comprehensive data analysis was undertaken. 
 Given the dynamic nature of the used car market in Singapore, no readily available datasets were found online. 
 Consequently, data was scraped directly from sgcarmart.
 
@@ -19,11 +19,11 @@ The extracted information included the following:
 Car Listing URL 'LISTING_URL', 
 Car Brand and Model 'BRAND', 
 Price 'PRICE', 
-Depreciation Value Yearly 'DEPRE_VALUE_PER_YEAR', 
+Depreciation Value Yearly 'DEPRE_VALUE_YEARLY', 
 Registered Date 'REG_DATE', 
 Mileage in KM 'MILEAGE_KM', 
 Year of Manufacture 'MANUFACTURED_YEAR', 
-Road Tax Yearly 'ROAD_TAX_PER_YEAR', 
+Road Tax Yearly 'ROAD_TAX_YEARLY', 
 Automatic or Manual Tranmission 'TRANSMISSION', 
 Deregistration Value as of Web Scraping DTD 'DEREG_VALUE_FROM_SCRAPE_DATE', 
 Web Scraping DTD 'SCRAPE_DATE', 
