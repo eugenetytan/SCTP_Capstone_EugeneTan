@@ -67,7 +67,9 @@ Random Forest Regression:
 
 
 Summary from Random Forest Regression Models vs Gradient Boosting Regression Models:
+
 Random Forest Regression:
+
 Training R^2: 0.9349787751992766
 Training MAE: 0.1383459211659664
 Training MSE: 0.035115221500906624
@@ -83,6 +85,7 @@ Testing RMSE: 0.22053366449180165
 
 
 Gradient Boosting Regression:
+
 Training R^2: 0.9914784674106109
 Training MAE: 0.05201313094484405
 Training MSE: 0.0046021203894680476
